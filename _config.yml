@@ -1,0 +1,25 @@
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+extensions: [smart]
+permalink: :title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 4000
+safe: true
+url: https://monster-mj.github.io/CV/ 
+author: Minjoo Kim
+
+# edit this section with your information
+# biomadeira.github.io - all contents run on /vitae/
+# for a normal use at the base of the server change it to "/"
+baseurl: /CV/
+title: Minjoo Kim's Resume
+name: Minjoo Kim
+email: mmetalkim@gmail.com
+github: monster-mj
+address: posco apt. 911-2703
+postcode: 18429
+city: hwasung
+country: Korea,South
+
